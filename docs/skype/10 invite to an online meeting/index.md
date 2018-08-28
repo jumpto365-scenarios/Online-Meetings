@@ -8,3 +8,6 @@ externalref: undefined
   
 
 
+Online meeting invitation resembles normal invitations in Outlook
+
+![](2018-08-26-15-54-30.png)
